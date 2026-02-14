@@ -33,7 +33,12 @@ The aim of this experiment was to perform clustering on face images using K-Mean
 
 ## Results
 ### Cluster Visualisation
+![Cluster Output with Faces](face_clustering.png)
+![Cluster Output](clustering_centeroids.png)
 
+### Template Prediction
+![Cluster Output with Template faces](clustering_faces_centeroids.png)
+![Cluster Output](clustering_template.png)
 
 ## Key Findings
 - Faces were successfully clustered into two groups based on color features.
