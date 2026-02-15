@@ -24,13 +24,6 @@ The aim of this experiment was to perform clustering on face images using K-Mean
 - centroids plotted
 - template image plotted in predicted cluster
 
-## Tools & Libraries
-- Python
-- OpenCV
-- NumPy
-- Matplotlib
-- Scikit-learn
-
 ## Results
 ### Cluster Visualisation
 ![Cluster Output with Faces](original_face_cluster.png)
